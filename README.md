@@ -39,15 +39,16 @@ I care more about products that are actually used than pretty repos that never l
 
 | Project | What it is | Status |
 |--------|------------|--------|
-| **TC Mudah** | Platform to help first-year Informatics students learn smarter (short modules, curated materials, shortlinks). Built with **Next.js + Supabase**. | 🛠 In active development |
-| **LearnWAI** | AI PDF assistant for summary, flashcards, and quizzes using LLMs. **Next.js (FE) + FastAPI (BE) + DB**. | 🧪 Experiment / v1 playground |
+| **TC Mudah** | Platform to help first-year Informatics students learn smarter (short modules, curated materials, shortlinks). Built with **Next.js + Supabase**. | Active |
+| **LearnWAI** | AI PDF assistant for summary, flashcards, and quizzes using LLMs. **Next.js (FE) + FastAPI (BE) + DB**. | Active |
+| **IEEE ITS SB** | An Organization Profile Website. **Next.js + Supabase** | Active |
 | **CP & Algorithms** | C++ solutions for ICPC-style problems with my own template, patterns (prefix sums, Dijkstra, DP, etc.), and short notes. | 📚 Growing library |
 
 </div>
 
-> When the repos are ready for public, link them here:
 > - TC Mudah: `https://github.com/Nappiz/`
 > - LearnWAI: `https://github.com/Nappiz/`
+> - IEEE: `Private`
 > - CP: `https://github.com/Nappiz/`
 
 ---
