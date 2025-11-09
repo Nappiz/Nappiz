@@ -35,13 +35,13 @@ I care about building things that are actually used, not just “tugas yang nump
 
 ## 🚀 What I'm building
 
-### TC Mudah – Learning Platform for TI ITS
+### TC Mudah – Learning Platform for Teknik Informatika ITS
 Platform to help first-year Informatics students learn smarter:
 - Short modules, curated materials, and shortlinks for easier access  
 - Built with **Next.js + Supabase**  
 - Focus: turn hard topics into something approachable  
 
-🔗 Repo: `https://github.com/` 
+🔗 Repo: 
 
 ---
 
@@ -51,7 +51,7 @@ Upload a PDF → get:
 - Stack: **Next.js (FE)** + **FastAPI (BE)** + **Supabase / DB**  
 - Playground for integrating multiple LLM providers and prompt workflows  
 
-🔗 Repo: `https://github.com` 
+🔗 Repo: 
 
 ---
 
@@ -60,7 +60,7 @@ Upload a PDF → get:
 - Uses my own template and patterns (prefix sums, Dijkstra, DP, etc.)  
 - Small notes per problem to document reasoning, not just AC results  
 
-🔗 Repo: `https://github.com/` 
+🔗 Repo: 
 
 ---
 
