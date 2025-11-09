@@ -3,11 +3,11 @@
   <h1>Hi, I'm Badruzzaman Nafiz 👋</h1>
   
   <p>
-    <b>Teknik Informatika @ ITS • Web Developer • Competitive Programmer • AI Enthusiast</b>
+    <b>Informatics Student @ ITS • Web Developer • Competitive Programmer • AI Enthusiast</b>
   </p>
 
   <p>
-    I like turning messy ideas into shipped products from web apps, to data things, to random experiments.
+    I like turning messy ideas into shipped products – from web apps to data-driven tools and small AI experiments.
   </p>
 
   <p>
@@ -22,68 +22,65 @@
 
 ---
 
-## 🚀 What I'm building
+## 💡 About me
 
-- **TC Mudah** – platform bantuan belajar untuk mahasiswa Teknik Informatika ITS.
-- **LearnWAI** – AI-powered PDF assistant (summary, flashcards, quiz) *Next.js + FastAPI*.
-- **IEEE** – Company Profile Website.
+- 🎓 Informatics student at **Institut Teknologi Sepuluh Nopember (ITS)**  
+- 💻 Focused on **full-stack web** (Next.js, TypeScript, Supabase)  
+- 🧮 Enjoy **competitive programming** & problem solving  
+- 🤖 Exploring **AI + developer tooling** for real-world use cases  
+
+I care about building things that are actually used, not just “tugas yang numpang lewat di GitHub”.
 
 ---
 
-## 🧠 What I do
+## 🚀 What I'm building
 
-- 💻 **Web Development** – Next.js, TypeScript, React, Tailwind, Supabase
-- 📊 **Data & Analytics** – Python, Pandas, scikit-learn, basic ML & EDA
-- 🧮 **Competitive Programming** – C++ 
-- 🎨 **Product & UX Thinking** – mikir user flow, value, dan bukan cuma “bikin fitur”.
+### TC Mudah – Learning Platform for TI ITS
+Platform to help first-year Informatics students learn smarter:
+- Short modules, curated materials, and shortlinks for easier access  
+- Built with **Next.js + Supabase**  
+- Focus: turn hard topics into something approachable  
+
+🔗 Repo: `https://github.com/` 
+
+---
+
+### LearnWAI – AI PDF Assistant
+Upload a PDF → get:
+- Summary, flashcards, and quizzes generated with LLMs  
+- Stack: **Next.js (FE)** + **FastAPI (BE)** + **Supabase / DB**  
+- Playground for integrating multiple LLM providers and prompt workflows  
+
+🔗 Repo: `https://github.com` 
+
+---
+
+### CP & Algorithms Collection
+- Solutions for **ICPC-style / contest problems** in C++  
+- Uses my own template and patterns (prefix sums, Dijkstra, DP, etc.)  
+- Small notes per problem to document reasoning, not just AC results  
+
+🔗 Repo: `https://github.com/` 
 
 ---
 
 ## 🧰 Tech Stack
 
 **Languages**
-- `TypeScript` `JavaScript` `Python` `C++` `SQL` `Go` `PHP` `Java` 
+- `TypeScript` · `JavaScript` · `Python` · `C++` · `SQL` · `Go` · `PHP` · `Java`
 
-**Web**
-- `Next.js` `React` `Tailwind CSS` `Gin` `Laravel` `FastAPI`
-- `Supabase` `REST API` `Prisma` 
+**Web & Backend**
+- `Next.js` · `React` · `Tailwind CSS`  
+- `FastAPI` · `Gin` · `Laravel`  
+- `Supabase` · `REST API` · `Prisma`
 
-**Data**
-- `Pandas` `NumPy` `scikit-learn`  
-- `Jupyter Notebook` / `Google Colab`
+**Data & ML**
+- `Pandas` · `NumPy` · `scikit-learn`  
+- `Jupyter Notebook` · `Google Colab`
 
-**Tools**
-- `Git` `GitHub` `Vercel`  
+**Tools & Design**
+- `Git` · `GitHub` · `Vercel`  
 - `Figma` (UI/UX & product design)
-
----
-
-## 📌 Selected Projects
-
-### 1. TC Mudah
-Platform bantuan belajar untuk mahasiswa TI ITS:
-- Modul singkat, shortlink, dan sistem manajemen konten
-- Dibangun pakai **Next.js + Supabase**
-- Fokus: bikin materi sulit jadi gampang dicerna
-
-🔗 Repo: 
-
----
-
-### 2. LearnWAI – AI PDF Assistant
-- Upload PDF → auto summary, flashcard, dan quiz
-- Stack: **Next.js (FE)** + **FastAPI (BE)** + **DB (Supabase / lainnya)**
-
-🔗 Repo: 
-
----
-
-### 3. CP & Algorithms Collection
-- Kumpulan solusi problem CP (ICPC style, Codeforces, dsb)
-- Fokus: clean C++ template, catatan pendek tiap soal
-- Buat nunjukin cara kamu mikir, bukan cuma AC spam.
-
-🔗 Repo: 
 
 ---
 
@@ -91,9 +88,15 @@ Platform bantuan belajar untuk mahasiswa TI ITS:
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Nappiz&show_icons=true&hide_title=true&count_private=true" height="150" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Nappiz&show_icons=true&hide_title=true&count_private=true" 
+    height="150" 
+  />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nappiz&layout=compact&langs_count=8" height="150" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nappiz&layout=compact&langs_count=8" 
+    height="150" 
+  />
 
 </div>
 
@@ -101,14 +104,14 @@ Platform bantuan belajar untuk mahasiswa TI ITS:
 
 ## 🎯 Currently
 
-- 🌱 Learning: better **system design for small web apps**, testing, and deployment workflow  
-- 📚 Exploring: more serious **data projects** (Kaggle, dashboards, and mini case studies)  
-- 🤝 Open to: collaboration untuk project kecil menengah yang beneran mau diseriusin.
+- 🌱 Learning better **architecture for small/medium web apps**, testing, and deployment workflow  
+- 📚 Exploring more serious **data & analytics projects** (Kaggle-style cases, dashboards, reports)  
+- 🤝 Open to collaboration on **real, shipped products**, not just toy apps
 
 ---
 
 ## 📬 Get in touch
 
-- ✉️ Email: 
-- 💼 LinkedIn:   
-- 🌐 Portfolio: https://nafiz-dev.vercel.app
+- ✉️ Email: `badruzzamannafiz@gmail.com` 
+- 💼 LinkedIn: `https://www.linkedin.com/in/badruzzaman-nafiz-4aa41821b/` 
+- 🌐 Portfolio: <a href="https://nafiz-dev.vercel.app">nafiz-dev.vercel.app</a>
